@@ -1,7 +1,7 @@
-# Hi👋, I am Swagato Sarowar, a passionate web-developer.
+# Hi👋, I am Swagato Sarowar, a passionate fullstack webdeveloper.
 
 # 💫 About Me:
-🔭 I’m currently working on www.bari-vara.com 🏠<br>👯 I’m looking to collaborate on any innovative web applications. 🌐<br>🌱 I’m currently learning React Native 📱<br>⚡ Fun fact - Most of the time, I completely lose track of time when I start coding! 😅 <br>📧 Contact me through swagotosarowar1@gmail.com or visit https://swagato-sarowar.netlify.app✌️
+👯 I’m looking to collaborate on any innovative web applications. 🌐<br>🌱 I’m currently learning React Native 📱<br>⚡ Fun fact - Most of the time, I completely lose track of time when I start coding! 😅 <br>📧 Contact me through swagotosarowar1@gmail.com or visit https://swagato-sarowar.netlify.app✌️
 https://swagato-sarowar.vercel.app 🤟
 
 
